@@ -4,7 +4,7 @@ add: Đăng ký thay đổi trong index
 
 da commit lan 2
 
-da commit lan 3
+da commit lan // tao tao sung dot ne 3
 
 
 git commit lan 4
