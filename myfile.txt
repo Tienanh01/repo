@@ -5,3 +5,6 @@ add: Đăng ký thay đổi trong index
 da commit lan 2
 
 da commit lan 3
+
+
+git commit lan 4
